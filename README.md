@@ -1,4 +1,4 @@
-### Hey there 👋
+# Hey there 👋
 
 - :keyboard: I'm a fullstack developer with a specialty in React-Redux and Ruby on Rails
 - 🌱 I’m currently learning ...
