@@ -22,13 +22,14 @@ This is how you dropdown.
 </details>
 
 <details>
-<summary> 📝 Top Languages</summary>
+<summary> 📝 Languages I've been Using</summary>
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pcampbell42&layout=compact&theme=tokyonight" />
 </details>
 
 <details>
-<summary> 📊 My Stats</summary>
+<summary> 📊 My Github Stats</summary>
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=pcampbell42&show_icons=true&theme=tokyonight" />
 </details>
+
