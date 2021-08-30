@@ -8,7 +8,7 @@
 
 🌱 Check out [Sprout](https://github.com/nichathong/sprout), a web app built with MERN that helps users take care of their plants.<br>
 
-🔗 Want to connect? Find me on [Linkedin](https://www.linkedin.com/in/patrick-campbell-336a72139/).<br>
+🔗 Want to connect? Find me on [Linkedin](https://www.linkedin.com/in/patrick-campbell-336a72139/) or check out my [website](https://www.patrickcampbell.com).<br>
 
 🌲 Passionate about the outdoors and an avid skier and mountain biker!
 
@@ -18,7 +18,7 @@
 <details>
 <summary> 🛠️ Technologies I've been Using</summary>
 <br>
-This is how you dropdown.
+<img height="32" width="32" logoColor="#FF0000" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/javascript.svg" />
 </details>
 
 <details>
@@ -32,4 +32,3 @@ This is how you dropdown.
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=pcampbell42&show_icons=true&theme=tokyonight" />
 </details>
-
