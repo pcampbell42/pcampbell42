@@ -8,7 +8,7 @@
 
 🌱 Check out [Sprout](https://github.com/nichathong/sprout), a web app built with MERN that helps users take care of their plants.<br>
 
-🔗 Want to connect? Find me on [Linkedin](https://www.linkedin.com/in/patrick-campbell-336a72139/) or check out my [website](https://www.patrickcampbell.com).<br>
+🔗 Want to connect? Find me on [Linkedin](https://www.linkedin.com/in/patrick-campbell-336a72139/) or check out my [website](http://www.patrickevancampbell.com/).<br>
 
 🌲 Passionate about the outdoors and an avid skier and mountain biker!
 
