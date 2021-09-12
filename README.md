@@ -4,7 +4,7 @@
 
 ❄️ I’m currently focused on adding to [Discord but Worse](https://discord-but-worse.herokuapp.com), a clone of the browser version of Discord that I'm very proud of!<br>
 
-💿 Also occasionally adding to [The Factory](https://pcampbell42.github.io/the-arena/), a cyberpunk-themed dungeon crawler.
+💿 Also occasionally adding to [The Factory](https://pcampbell42.github.io/the-factory/), a cyberpunk-themed dungeon crawler.
 
 🌱 Check out [Sprout](https://sprout-plant-app.herokuapp.com/#/), a web app built with MERN that helps users take care of their plants.<br>
 
