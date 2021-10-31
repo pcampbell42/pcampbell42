@@ -2,7 +2,7 @@
 
 ⌨️ Fullstack developer with a specialty in React-Redux and Ruby on Rails.<br>
 
-❄️ I’m currently focused on adding to [Discord but Worse](https://discord-but-worse.herokuapp.com), a clone of the browser version of Discord that I'm proud of!<br>
+❄️ I’m currently adding to [Discord but Worse](https://discord-but-worse.herokuapp.com), a clone of the browser version of Discord that I'm very proud of!<br>
 
 💿 Also occasionally adding to [The Factory](https://pcampbell42.github.io/the-factory/), a cyberpunk-themed dungeon crawler.
 
