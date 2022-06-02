@@ -1,4 +1,4 @@
-# Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">
+# Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5000px">
 
 ⌨️ Fullstack developer with a specialty in React-Redux and Ruby on Rails.<br>
 
